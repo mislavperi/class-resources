@@ -1,0 +1,133 @@
+{
+  "main": {
+    "id": "680367f33bfcd690",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b413d65d3461697",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "847663750d686756",
+    "type": "split",
+    "children": [
+      {
+        "id": "154f733cc3abaceb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90cc7e4c0de20d37",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6ed6754c7f99ac4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8d1b64af505b0ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a79c894fcccbbe1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "785b96621c6f2e99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab62accb22042b48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f0d1031309f7cb0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e5daa6e5dc0cd4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fbc625b69fc933d3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5b413d65d3461697",
+  "lastOpenFiles": [
+    "DE/Data Cleansing.md",
+    "DE/Introductory.md",
+    "QMM/? - ADD LATER.md",
+    "QMM/Graphical and tabular representation of data.md",
+    "AADT/Design patterns and SOLID.md",
+    "CCT/Lesson 2.md",
+    "PIP/Notes/Introductory.md"
+  ]
+}
