@@ -5,4 +5,8 @@
 	-  Key drivers - consumer is the key driver
 	- Companies - careful on selecting major competitors
 	- SWOT - elaborate each aspect of SWOT
+- Formatting is allowed
+### Seminar paper 2
+- Narrowing from industry to company
+- Desk research
 - 

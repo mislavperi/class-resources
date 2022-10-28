@@ -4,39 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "36c129e41eb55d6a",
+        "id": "313b34485b95164d",
         "type": "tabs",
         "children": [
           {
-            "id": "ab99a267fc38ce83",
+            "id": "7ab21dd40bcbbfd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IP1/Seminar papers.md",
+                "file": "QMM/Measure of dispersion.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "07f954ef2ab507f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IP1/Seminar papers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f4b39a3d79d52b7d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -105,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IP1/Seminar papers.md",
+                "file": "QMM/Measure of dispersion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IP1/Seminar papers.md",
+                "file": "QMM/Measure of dispersion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IP1/Seminar papers.md"
+                "file": "QMM/Measure of dispersion.md"
               }
             }
           }
@@ -159,15 +139,15 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ab99a267fc38ce83",
+  "active": "7ab21dd40bcbbfd7",
   "lastOpenFiles": [
-    "IP1/Class 1..md",
     "IP1/Seminar papers.md",
+    "QMM/Graphical and tabular representation of data.md",
+    "QMM/? - ADD LATER.md",
+    "IP1/Class 1..md",
     "IP1/New product management.md",
     "DE/Data Cleansing.md",
     "DE/Introductory.md",
-    "QMM/? - ADD LATER.md",
-    "QMM/Graphical and tabular representation of data.md",
     "AADT/Design patterns and SOLID.md",
     "CCT/Lesson 2.md",
     "PIP/Notes/Introductory.md"
