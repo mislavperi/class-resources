@@ -1,0 +1,3 @@
+import TeatherFacade
+
+watchMovie("movie")

@@ -1,0 +1,1 @@
+cat backup.sql | docker exec -i de_database /usr/bin/mysql -u root --password=password db
