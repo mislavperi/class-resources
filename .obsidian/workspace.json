@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4520dca24ff62328",
+        "id": "d5f1c8b1286894c9",
         "type": "tabs",
         "children": [
           {
-            "id": "d782c4d85b35e837",
+            "id": "b3b46f45ea3a504f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IML/1. Introduction.md",
+                "file": "ITD/Docker.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "a79c894fcccbbe1b",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IML/1. Introduction.md",
+                "file": "ITD/Docker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IML/1. Introduction.md",
+                "file": "ITD/Docker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IML/1. Introduction.md"
+                "file": "ITD/Docker.md"
               }
             }
           }
@@ -146,17 +146,32 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d782c4d85b35e837",
+  "active": "90cc7e4c0de20d37",
   "lastOpenFiles": [
-    "IP1/Seminar papers.md",
-    "IP1/New product management.md",
-    "IML/1. Introduction.md",
+    "AAP/Functional paradigm/Functional programming.md",
+    "AAP/Functional paradigm/code/hof.exs",
+    "AAP/Functional paradigm/code/fof.exs",
+    "IML/2. Assessing model accuracy and linear agression.md",
     "SICP/1. Building Abstractions with Procedures.md",
-    "Untitled.md",
-    "IML/Untitled/Untitled.canvas",
-    "SICP/assets/Pasted image 20230215231641.png",
-    "a.md",
-    "c.md",
-    "DE/5. Data transformation.md"
+    "AAP/Functional paradigm/code/declarative.js",
+    "AAP/Functional paradigm/code/examples.exs",
+    "AAP/Functional paradigm/code",
+    "AAP/Functional paradigm/Resources.md",
+    "AAP/code/selenium/chromedriver",
+    "AAP/code/chromedriver",
+    "AAP/chromedriver",
+    "chromedriver",
+    "AAP/code/selenium/sel.py",
+    "Untitled/Untitled.md",
+    "ITD/Docker.md",
+    "IML/1. Introduction.md",
+    "SAT/Introduction.md",
+    "SAT/The probability tree.md",
+    "DE/Introductory.md",
+    "DE/5. Data transformation.md",
+    "WorkRelated/On-call.md",
+    "AAP/Introduction - 25.02.2023.md",
+    "IP1/Seminar papers.md",
+    "IP1/New product management.md"
   ]
 }

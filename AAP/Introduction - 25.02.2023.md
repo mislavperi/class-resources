@@ -1,0 +1,3 @@
+- Test driven, object oriented, functional oriented
+- 9 learning outcomes
+- Passed with a project
